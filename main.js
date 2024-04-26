@@ -9,3 +9,4 @@ sun__btn.addEventListener('click', function(){
 moon__btn.addEventListener('click', function(){
     body.classList.toggle('dark');
 })
+

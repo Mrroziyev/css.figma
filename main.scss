@@ -97,11 +97,11 @@ header nav div .moon__btn {
   cursor: pointer;
 }
 
-body.dark {
+.dark {
   background: #000;
-  transition: 1s ease-in-out;
+  transition: 0.4s ease-in-out;
 }
-body.dark .sub__btn {
+body.dark.sun__btn {
   display: none;
 }
 body.dark .moon__btn {
